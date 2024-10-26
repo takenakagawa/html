@@ -3,7 +3,7 @@ body {
 margin: 0;
 }
 
-.clearfix::content{
+.clearfix::after{
 content: "";
 display: block;
 clear: both;
