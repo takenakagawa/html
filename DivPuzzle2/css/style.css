@@ -26,8 +26,6 @@ body {
 
 /* main */
 .main {
-  width: 250px;
-  height: 250px;
   float: left;
 }
 
@@ -55,7 +53,7 @@ body {
   width: 100px;
   height: 150px;
   background: #ff9e6b;
-  float: right;
+  float: left;
 }
 
 /* main-bottom */
