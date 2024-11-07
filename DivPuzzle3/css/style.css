@@ -54,7 +54,7 @@ body {
 /* main2 */
 .white--box2 {
   top: 40px;
-  right: 40px;
+  left: 40px;
   position: absolute;
 }
 .beige--box {
